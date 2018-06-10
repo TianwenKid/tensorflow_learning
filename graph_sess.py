@@ -4,7 +4,7 @@
 import tensorflow as tf
 
 
-# 创建两个常亮 Tensor
+# 创建两个常量 Tensor
 const1 = tf.constant([[2,2]])
 const2 = tf.constant([[4],[4]])
 
